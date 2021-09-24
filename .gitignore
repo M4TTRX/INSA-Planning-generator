@@ -17,6 +17,7 @@ pids
 coverage/
 .nyc_output/
 export/
+*.ics
 
 # Dependency directories
 node_modules
