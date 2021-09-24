@@ -16,7 +16,7 @@ pids
 # Generated files (coverage, tests)
 coverage/
 .nyc_output/
-export/tests/
+export/
 
 # Dependency directories
 node_modules
